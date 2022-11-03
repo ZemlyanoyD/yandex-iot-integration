@@ -1,6 +1,6 @@
 {
   "codeowners": ["@ZemlyanoyD"],
-  "config_flow": true,
+  "config_flow": false,
   "dependencies": [],
   "documentation": "https://github.com/user/my_component/",
   "domain": "yandex_iot_integration",
